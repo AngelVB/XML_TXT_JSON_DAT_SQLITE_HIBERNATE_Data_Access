@@ -1,0 +1,6 @@
+hib/modelo/Nota_.java
+hib/modelo/Lugar_.java
+hib/modelo/Contacto_.java
+hib/modelo/ContactoHasEvento_.java
+hib/modelo/Evento_.java
+hib/modelo/ContactoHasEventoPK_.java

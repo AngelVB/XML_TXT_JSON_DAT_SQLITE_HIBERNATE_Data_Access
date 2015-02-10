@@ -1,0 +1,8 @@
+Persona: Angel
+    Teléfono: 666666666
+    Correo: asfasd@sdfsd.com
+    Nacido en: 1222
+Persona: Pablo
+    Teléfono: 555555
+    Correo: asfasd@saf.es
+    Nacido en: 3333

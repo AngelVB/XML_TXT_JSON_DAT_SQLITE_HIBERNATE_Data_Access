@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
-    <system systemId="file:/C:/Users/ncarralero/Dropbox/Libro%20RA-MA.%20Acceso%20Datos/Ejemplos/accesoDOM/src/accesodom/LibrosEsquema.xsd" uri="xml-resources/jaxb/javalibros/LibrosEsquema.xsd"/>
-</catalog>
